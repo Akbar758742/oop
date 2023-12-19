@@ -29,4 +29,10 @@ body {
     border:none;
     cursor:pointer;
   }
-  
+  .me{
+    background: #000000;
+    color: #fff;
+  }
+  .me h4{
+    color: #ffffff;
+  }
